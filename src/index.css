@@ -141,7 +141,7 @@ progress {
 }
 
 .btn-ui {
-  margin: auto;
+  float: right;
 }
 
 .options {
